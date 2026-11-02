@@ -1,0 +1,25 @@
+method,label,w,h,cells,passages,time_ms,repeats
+dfs,DFS Backtracker,15,15,225,224,0.529,5
+dfs,DFS Backtracker,31,31,961,960,2.232,5
+dfs,DFS Backtracker,63,63,3969,3968,9.048,5
+dfs,DFS Backtracker,127,127,16129,16128,37.376,5
+dfs,DFS Backtracker,255,255,65025,65024,150.351,5
+prim,Randomized Prim,15,15,225,224,0.673,5
+prim,Randomized Prim,31,31,961,960,2.956,5
+prim,Randomized Prim,63,63,3969,3968,12.504,5
+prim,Randomized Prim,127,127,16129,16128,51.71,5
+prim,Randomized Prim,255,255,65025,65024,209.573,5
+kruskal,Randomized Kruskal,15,15,225,224,0.447,5
+kruskal,Randomized Kruskal,31,31,961,960,1.984,5
+kruskal,Randomized Kruskal,63,63,3969,3968,8.502,5
+kruskal,Randomized Kruskal,127,127,16129,16128,34.637,5
+kruskal,Randomized Kruskal,255,255,65025,65024,151.84,5
+wilson,Wilson's (uniform),15,15,225,224,1.192,5
+wilson,Wilson's (uniform),31,31,961,960,5.323,5
+wilson,Wilson's (uniform),63,63,3969,3968,27.044,5
+wilson,Wilson's (uniform),127,127,16129,16128,122.94,5
+division,Recursive Division,15,15,225,224,0.354,5
+division,Recursive Division,31,31,961,960,1.446,5
+division,Recursive Division,63,63,3969,3968,5.99,5
+division,Recursive Division,127,127,16129,16128,23.996,5
+division,Recursive Division,255,255,65025,65024,96.747,5

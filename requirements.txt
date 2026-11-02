@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+# Maze Runner -- runtime + analysis dependencies.
+# The game itself only needs pygame; matplotlib is used by benchmark charts.
+pygame>=2.5
+matplotlib>=3.7
+=======
+numpy
+pandas
+matplotlib
+seaborn>=0.13
+plotly
+>>>>>>> bd6ab8bdb618fc08233d50ddb0a634697babe7c9

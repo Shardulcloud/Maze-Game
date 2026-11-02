@@ -1,0 +1,32 @@
+kind,name,label,w,h,cells,grid_bytes,steady_bytes,peak_bytes
+generation,dfs,DFS Backtracker,31,31,961,961,32714,41300
+generation,dfs,DFS Backtracker,63,63,3969,3969,81278,104264
+generation,dfs,DFS Backtracker,127,127,16129,16129,128242,261996
+generation,prim,Randomized Prim,31,31,961,961,2162,8164
+generation,prim,Randomized Prim,63,63,3969,3969,4207,15565
+generation,prim,Randomized Prim,127,127,16129,16129,16242,42480
+generation,kruskal,Randomized Kruskal,31,31,961,961,122026,169468
+generation,kruskal,Randomized Kruskal,63,63,3969,3969,100714,594844
+generation,kruskal,Randomized Kruskal,127,127,16129,16129,136298,2806364
+generation,wilson,Wilson's (uniform),31,31,961,961,7082,133056
+generation,wilson,Wilson's (uniform),63,63,3969,3969,8652,536258
+generation,wilson,Wilson's (uniform),127,127,16129,16129,20722,2775416
+generation,division,Recursive Division,31,31,961,961,17992,18164
+generation,division,Recursive Division,63,63,3969,3969,11876,12048
+generation,division,Recursive Division,127,127,16129,16129,20666,20838
+solver,bfs,BFS,63,63,3969,3969,70872,263112
+solver,dfs,DFS,63,63,3969,3969,63308,268796
+solver,dijkstra,Dijkstra,63,63,3969,3969,70812,601880
+solver,astar,A* (Manhattan),63,63,3969,3969,70176,602592
+solver,greedy,Greedy best-first,63,63,3969,3969,66668,393948
+solver,bidirectional,Bidirectional BFS,63,63,3969,3969,104788,542068
+solver,dead_end_filling,Dead-end filling,63,63,3969,3969,13533,147523
+solver,wall_follower,Wall follower,63,63,3969,3969,66664,66740
+solver,bfs,BFS,127,127,16129,16129,163652,1384740
+solver,dfs,DFS,127,127,16129,16129,249084,1909756
+solver,dijkstra,Dijkstra,127,127,16129,16129,229620,2788688
+solver,astar,A* (Manhattan),127,127,16129,16129,228532,2788700
+solver,greedy,Greedy best-first,127,127,16129,16129,123380,403916
+solver,bidirectional,Bidirectional BFS,127,127,16129,16129,224460,1684004
+solver,dead_end_filling,Dead-end filling,127,127,16129,16129,51504,270766
+solver,wall_follower,Wall follower,127,127,16129,16129,1402000,1402076

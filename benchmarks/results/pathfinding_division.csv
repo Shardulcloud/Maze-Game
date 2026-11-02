@@ -1,0 +1,46 @@
+solver,label,w,h,cells,time_ms,nodes_expanded,frontier_peak,path_length,optimal
+bfs,BFS,15,15,225,0.303,200,8,78,1
+dfs,DFS,15,15,225,0.263,163,22,78,1
+dijkstra,Dijkstra,15,15,225,0.345,204,8,78,1
+astar,A* (Manhattan),15,15,225,0.349,173,9,78,1
+astar_euclidean,A* (Euclidean),15,15,225,0.325,174,12,78,1
+greedy,Greedy best-first,15,15,225,0.243,121,18,78,1
+bidirectional,Bidirectional BFS,15,15,225,0.361,211,12,78,1
+dead_end_filling,Dead-end filling,15,15,225,0.444,79,1,78,1
+wall_follower,Wall follower,15,15,225,0.188,264,0,264,0
+bfs,BFS,31,31,961,0.685,442,11,120,1
+dfs,DFS,31,31,961,0.419,252,29,120,1
+dijkstra,Dijkstra,31,31,961,0.812,444,11,120,1
+astar,A* (Manhattan),31,31,961,0.772,376,14,120,1
+astar_euclidean,A* (Euclidean),31,31,961,0.809,389,13,120,1
+greedy,Greedy best-first,31,31,961,0.436,213,25,120,1
+bidirectional,Bidirectional BFS,31,31,961,0.658,370,15,120,1
+dead_end_filling,Dead-end filling,31,31,961,1.924,121,1,120,1
+wall_follower,Wall follower,31,31,961,0.203,278,0,278,0
+bfs,BFS,63,63,3969,3.422,2180,32,254,1
+dfs,DFS,63,63,3969,1.143,710,72,254,1
+dijkstra,Dijkstra,63,63,3969,4.173,2190,32,254,1
+astar,A* (Manhattan),63,63,3969,3.565,1692,36,254,1
+astar_euclidean,A* (Euclidean),63,63,3969,3.781,1806,34,254,1
+greedy,Greedy best-first,63,63,3969,1.026,480,59,254,1
+bidirectional,Bidirectional BFS,63,63,3969,3.813,2171,49,254,1
+dead_end_filling,Dead-end filling,63,63,3969,7.819,255,1,254,1
+wall_follower,Wall follower,63,63,3969,0.904,1154,0,1154,0
+bfs,BFS,127,127,16129,17.425,10738,66,572,1
+dfs,DFS,127,127,16129,6.476,3840,155,572,1
+dijkstra,Dijkstra,127,127,16129,21.91,10769,66,572,1
+astar,A* (Manhattan),127,127,16129,15.601,6956,70,572,1
+astar_euclidean,A* (Euclidean),127,127,16129,16.564,7603,62,572,1
+greedy,Greedy best-first,127,127,16129,13.956,6533,178,572,1
+bidirectional,Bidirectional BFS,127,127,16129,9.681,4824,65,572,1
+dead_end_filling,Dead-end filling,127,127,16129,31.428,573,1,572,1
+wall_follower,Wall follower,127,127,16129,5.43,6800,0,6800,0
+bfs,BFS,255,255,65025,66.19,40574,83,1882,1
+dfs,DFS,255,255,65025,95.833,57598,724,1882,1
+dijkstra,Dijkstra,255,255,65025,85.693,40622,83,1882,1
+astar,A* (Manhattan),255,255,65025,72.864,32415,86,1882,1
+astar_euclidean,A* (Euclidean),255,255,65025,74.074,33687,76,1882,1
+greedy,Greedy best-first,255,255,65025,59.499,26363,379,1882,1
+bidirectional,Bidirectional BFS,255,255,65025,53.53,18092,74,1882,1
+dead_end_filling,Dead-end filling,255,255,65025,123.399,1883,1,1882,1
+wall_follower,Wall follower,255,255,65025,16.524,20498,0,20498,0
