@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Maze Runner
 
 A procedurally generated maze game that doubles as a pathfinding playground:
@@ -262,3 +263,6 @@ maze-game/
 =======
 # Fintrack
 >>>>>>> bd6ab8bdb618fc08233d50ddb0a634697babe7c9
+=======
+# Maze-Game
+>>>>>>> bc5987b60065ec61863d649a14f1ccb71efc5417
